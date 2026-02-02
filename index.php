@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistem Informasi Rental</title>
+    <title>Sistem Informasi Penjualan</title>
     <link rel="stylesheet" type="text/css" href="asset/css/bootstrap.css">
     <script type="text/javascript" src="asset/js/jquery.js"></script>
     <script type="text/javascript" src="asset/js/bootstrap.js"></script>
@@ -11,7 +11,7 @@
 <body style="background: #f0f0f0;">
     <br><br><br>
     <center>
-        <h2>SISTEM INFORMASI PENJUALAN <br> REKAYASA PERANGKAT LUNAK SMKN 3 KENDAL</h2>
+        <h2>SISTEM PENJUALAN <br> REKAYASA PERANGKAT LUNAK SMKN 3 KENDAL</h2>
     </center>
 <br><br>
 <div class="container">

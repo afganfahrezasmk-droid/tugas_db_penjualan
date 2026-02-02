@@ -27,7 +27,7 @@
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">                    
                     <span class="sr-only"></span>
                 </button>
-                <a class="navbar-brand" href="index.php"> User </a>
+                <a class="navbar-brand" href="index.php"> Kasir </a>
             </div>
 
             <div class="navbar navbar-collapse" id="bs-example-navbar-collapse-1">
