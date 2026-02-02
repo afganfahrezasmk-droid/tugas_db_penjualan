@@ -34,7 +34,7 @@
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="index.php"><i class="glyphicon glyphicon-home"></i> Home </a></li>
 
-                    <li><a href="penjualan.php"><i class="glyphicon glyphicon-user"></i> Penjualan </a></li>
+                    <li><a href="penjualan.php"><i class="glyphicon glyphicon-shopping-cart"></i> Penjualan </a></li>
 
                     <li><a href="logout.php"><i class="glyphicon glyphicon-log-out"></i> Log Out </a></li>
                 </ul>

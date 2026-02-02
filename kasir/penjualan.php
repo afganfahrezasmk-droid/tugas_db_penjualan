@@ -7,7 +7,7 @@ include 'header.php';
             <h4>Data Penjualan</h4>
 </div>
 <div class="panel-body">
-    <a href="penjualan_tambah.php" class="btn btn-sm btn-info pull-right">Tambah</a>
+    <a href="penjualan_tambah.php" class="btn btn-sm btn-info pull-right">Jual Barang</a>
     <br><br>
     <table class="table table-bordered table-striped">
         <tr>
