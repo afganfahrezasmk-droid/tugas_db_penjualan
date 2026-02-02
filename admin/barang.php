@@ -34,7 +34,6 @@ while ($d=mysqli_fetch_array($data)){
         <td><?php echo $d['stok'];?></td>
 
         <td>
-            <a href="barang_invoice.php?id=<?php echo $d['id_barang']; ?>" target="_blank" class="btn btn-sm btn-warning">invoice</a>
             <a href="barang_edit.php?id=<?php echo $d['id_barang']; ?>" class="btn btn-sm btn-info">Edit</a>
             <a href="barang_hapus.php?id=<?php echo $d['id_barang']; ?>" class="btn btn-sm btn-danger">Hapus</a>
         </td>

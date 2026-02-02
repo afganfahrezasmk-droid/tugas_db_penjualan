@@ -61,7 +61,7 @@ exit;
 </div>
     <div class="panel">
 <div class="panel-heading">
-    <h4>Data Penjualan</h4>
+    <h4>Riwayat Data Penjualan</h4>
 </div>
 <div class="panel-body">
     <table class="table table-bordered table-striped">
